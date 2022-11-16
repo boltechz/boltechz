@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact...<b>I sell Real Estate.</b>
 
 ### Connect with me: ###
-[![LinkedIn](https://img.icons8.com/color/48/undefined/linkedin.png)](https://www.linkedin.com/in/boluwatife-akinola-2a777b207/)
+[![LinkedIn](https://img.icons8.com/color/48/undefined/linkedin.png)](https://www.linkedin.com/in/boluwatife-akinola/)
+[![Twitter](https://img.icons8.com/color/48/null/twitter--v1.png)](https://twitter.com/_boltech_/)
